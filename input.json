@@ -1,0 +1,10 @@
+{
+    "sender_email": "example@gmail.com",
+    "receiver_emails": [
+        "example1@gmail.com",
+        "example2@gmail.com"
+    ],
+    "zipcode": "12345",
+    "rate": 10,
+    "password": "abcde"
+}
